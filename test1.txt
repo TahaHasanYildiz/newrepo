@@ -13,4 +13,8 @@ Something else
 XXXXXX
 taha
 taha
+<<<<<<< HEAD
 taha
+=======
+irem
+>>>>>>> refs/remotes/origin/main
