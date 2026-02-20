@@ -14,4 +14,8 @@ XXXXXX
 taha
 taha
 irem
+<<<<<<< HEAD
 taha
+=======
+irem
+>>>>>>> refs/remotes/origin/main
