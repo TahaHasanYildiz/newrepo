@@ -10,4 +10,8 @@ No
 Noooo
 Noooo
 Something else
+<<<<<<< HEAD
 XXXXXX
+=======
+Something else
+>>>>>>> refs/remotes/origin/main
